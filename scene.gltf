@@ -1,0 +1,684 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3995,
+      "max": [
+        114.30455017089844,
+        1848.294677734375,
+        139.84916687011719
+      ],
+      "min": [
+        -114.30417633056641,
+        1553.3585205078125,
+        -128.3819580078125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47940,
+      "componentType": 5126,
+      "count": 3995,
+      "max": [
+        0.999042809009552,
+        0.99732077121734619,
+        0.99908697605133057
+      ],
+      "min": [
+        -0.99904024600982666,
+        -0.99991905689239502,
+        -0.99989676475524902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3995,
+      "max": [
+        0.99560546875,
+        0.99381256103515625
+      ],
+      "min": [
+        -0.5673828125,
+        0.00927734375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3995,
+      "max": [
+        1,
+        0.99941831827163696,
+        0.99915057420730591,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99846380949020386,
+        -0.99997901916503906,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 20406,
+      "max": [
+        3994
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 95880,
+      "componentType": 5126,
+      "count": 239,
+      "max": [
+        101.20527648925781,
+        1815.1898193359375,
+        144.03800964355469
+      ],
+      "min": [
+        -101.20507049560547,
+        1582.837646484375,
+        24.889686584472656
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 98748,
+      "componentType": 5126,
+      "count": 239,
+      "max": [
+        0.96716183423995972,
+        0.66701024770736694,
+        0.99985337257385254
+      ],
+      "min": [
+        -0.96715843677520752,
+        -0.66064685583114624,
+        0.24728216230869293
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 63920,
+      "componentType": 5126,
+      "count": 239,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 81624,
+      "componentType": 5125,
+      "count": 1248,
+      "max": [
+        238
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 101616,
+      "componentType": 5126,
+      "count": 8949,
+      "max": [
+        717.19970703125,
+        1697.7236328125,
+        138.9512939453125
+      ],
+      "min": [
+        -717.20098876953125,
+        8.1877231597900391,
+        -171.5107421875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 209004,
+      "componentType": 5126,
+      "count": 8949,
+      "max": [
+        0.99990910291671753,
+        0.99976378679275513,
+        0.99997615814208984
+      ],
+      "min": [
+        -0.99992674589157104,
+        -0.99939370155334473,
+        -0.99958235025405884
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31960,
+      "componentType": 5126,
+      "count": 8949,
+      "max": [
+        1.9951171875,
+        0.99504470825195312
+      ],
+      "min": [
+        0.1590576171875,
+        0.01611328125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 67744,
+      "componentType": 5126,
+      "count": 8949,
+      "max": [
+        1,
+        0.99920386075973511,
+        0.99997860193252563,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99980044364929199,
+        -0.99995815753936768,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 86616,
+      "componentType": 5125,
+      "count": 45318,
+      "max": [
+        8948
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 316392,
+      "componentType": 5126,
+      "count": 14858,
+      "max": [
+        835.944091796875,
+        1653.627685546875,
+        155.52476501464844
+      ],
+      "min": [
+        -835.9442138671875,
+        -5.1903376579284668,
+        -200.20414733886719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 494688,
+      "componentType": 5126,
+      "count": 14858,
+      "max": [
+        0.99969887733459473,
+        0.99963212013244629,
+        1
+      ],
+      "min": [
+        -0.99969881772994995,
+        -0.99999725818634033,
+        -0.99997550249099731
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 103552,
+      "componentType": 5126,
+      "count": 14858,
+      "max": [
+        1.9990234375,
+        0.9959869384765625
+      ],
+      "min": [
+        0.01081085205078125,
+        0.00732421875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 210928,
+      "componentType": 5126,
+      "count": 14858,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 267888,
+      "componentType": 5125,
+      "count": 81072,
+      "max": [
+        14857
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "Sketchfab (OSG glTF plugin)",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 592176,
+      "byteOffset": 0,
+      "name": "ScalarBufferView",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 222416,
+      "byteOffset": 592176,
+      "byteStride": 8,
+      "name": "Vec3BufferView",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 672984,
+      "byteOffset": 814592,
+      "byteStride": 12,
+      "name": "Vec4BufferView",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 448656,
+      "byteOffset": 1487576,
+      "byteStride": 16,
+      "name": "MatrixBufferView",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1936232,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/HMM_ARM_Heleus_Helmet_Mat_normal.png"
+    },
+    {
+      "uri": "textures/HMM_ARM_Heleus_Helmet_Mat_baseColor.png"
+    },
+    {
+      "uri": "textures/HMM_ARM_Heleus_UnderArmor_Mat1_normal.png"
+    },
+    {
+      "uri": "textures/HMM_ARM_Heleus_UnderArmor_Mat1_baseColor.png"
+    },
+    {
+      "uri": "textures/HMM_ARM_Heleus_ArmorAll_Mat_normal.png"
+    },
+    {
+      "uri": "textures/HMM_ARM_Heleus_ArmorAll_Mat_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "HMM_ARM_Heleus_Helmet_Mat",
+      "normalTexture": {
+        "index": 0,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "roughnessFactor": 0.37366615850000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "HMM_ARM_Heleus_HelmetVisor_Mat",
+      "normalFactor": 1,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 1,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "HMM_ARM_Heleus_ArmorAll_Mat",
+      "normalTexture": {
+        "index": 4,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 5,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "roughnessFactor": 0.42244664630000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "HMM_ARM_Heleus_UnderArmor_Mat1",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "roughnessFactor": 0.37366615850000001
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "hmm_arm_heleus_helmet_model_mesh_lod0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 3,
+            "TEXCOORD_0": 2
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "hmm_arm_heleus_light_model_mesh_lod0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TANGENT": 12,
+            "TEXCOORD_0": 11
+          },
+          "indices": 13,
+          "material": 2,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TANGENT": 17,
+            "TEXCOORD_0": 16
+          },
+          "indices": 18,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "0218d4550fc14158a37075f44601fe0e.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.99999999999998668,
+        1.6292067073209113e-07,
+        0,
+        0,
+        -1.6292067073209113e-07,
+        0.99999999999998668,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "hmm_arm_heleus_helmet_model_mesh_lod0"
+    },
+    {
+      "mesh": 0,
+      "name": "hmm_arm_heleus_helmet_model_mesh_lod0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.99999999999998668,
+        1.6292067073209113e-07,
+        0,
+        0,
+        -1.6292067073209113e-07,
+        0.99999999999998668,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "hmm_arm_heleus_light_model_mesh_lod0"
+    },
+    {
+      "mesh": 1,
+      "name": "hmm_arm_heleus_light_model_mesh_lod0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
